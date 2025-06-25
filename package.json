@@ -1,0 +1,27 @@
+{
+  "name": "jwt-parser-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "jwt-parse": "./index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "echo \"No build step required.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
