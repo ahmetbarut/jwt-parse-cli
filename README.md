@@ -2,7 +2,7 @@
 
 A simple command-line tool to parse and display the contents of a JSON Web Token (JWT).
 
-<!-- ![Screenshot of the CLI output](https://i.imgur.com/some-image.png) Replace with an actual screenshot URL -->
+![Screenshot of the CLI output](output.png)
 
 ## Installation
 
