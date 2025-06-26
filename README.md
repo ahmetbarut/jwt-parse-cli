@@ -2,7 +2,7 @@
 
 A simple command-line tool to parse and display the contents of a JSON Web Token (JWT).
 
-![Screenshot of the CLI output](output.png)
+![Screenshot of the CLI output](https://raw.githubusercontent.com/ahmetbarut/jwt-parse-cli/main/output.png)
 
 ## Installation
 
